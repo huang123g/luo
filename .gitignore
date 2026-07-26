@@ -21,3 +21,6 @@ build/
 
 # WorkBuddy 本地数据
 .workbuddy/
+
+# 本地学习用的第三方仓库（不提交到 luo）
+study/
