@@ -13,7 +13,7 @@
 ## 使用
 
 ```bash
-git clone https://github.com/<你的用户名>/luo.git
+git clone https://github.com/huang123g/luo.git
 ```
 
 ## License
