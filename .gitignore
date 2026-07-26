@@ -1,0 +1,23 @@
+# 操作系统 / 编辑器
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# 依赖 / 构建产物
+node_modules/
+__pycache__/
+*.pyc
+dist/
+build/
+*.egg-info/
+
+# 日志 / 临时
+*.log
+.tmp/
+.cache/
+
+# WorkBuddy 本地数据
+.workbuddy/
